@@ -1,0 +1,12 @@
+{
+  "name": "Brisca Maldita",
+  "short_name": "Brisca",
+  "description": "Roguelike de cartas con la baraja española.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#7a1e1e",
+  "theme_color": "#7a1e1e",
+  "lang": "es",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
